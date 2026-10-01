@@ -20,8 +20,7 @@ Welcome to my HackerRank Python solution repository! Here I document my solution
 
 | # | Problem Name | Difficulty | Solution | HackerRank Link |
 | :-: | :--- | :-: | :-: | :-: |
-| 1 | Say Hello, World! With Python | Easy | [Code](./01-introduction/say-hello-world-with-python.py) | [View](https://www.hackerrank.com/challenges/py-hello-world/problem) |
-| 2 | Find the Runner-Up Score! | Easy | [Code](./02-basic-data-types/find-the-runner-up-score.py) | [View](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) |
+| 1 | Say Hello, World! With Python | Easy | [Code](./solutions/say-hello-world-with-python.py) | [View](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true) |
 
 ---
 
