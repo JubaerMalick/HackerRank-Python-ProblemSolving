@@ -8,7 +8,7 @@ Welcome to my HackerRank Python solution repository! Here I document my solution
 | # | Problem Name | Difficulty | Solution | HackerRank Link |
 | :-: | :--- | :-: | :-: | :-: |
 | 1 | Say Hello, World! With Python | Easy | [Code](./solutions/say-hello-world-with-python.py) | [View](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true) |
-
+| 2 | Python If-Else | Easy | [Code](./solutions/python-if-else.py) | [View](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true) |
 ---
 
 ## 👤 Profile
