@@ -13,6 +13,7 @@ Welcome to my HackerRank Python solution repository! Here I document my solution
 | 4 | Python: Division | Easy | [Code](./solutions/python-division.py) | [View](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true) |
 | 5 | Loops | Easy | [Code](./solutions/python-loops.py) | [View](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true) |
 | 6 | Write a function | Easy | [Code](./solutions/write-a-function.py) | [View](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true) |
+| 7 | Print Function | Easy | [Code](./solutions/python-print-function.py) | [View](https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true) |
 ---
 
 ## 👤 Profile
