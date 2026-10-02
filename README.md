@@ -12,6 +12,7 @@ Welcome to my HackerRank Python solution repository! Here I document my solution
 | 3 | Arithmetic Operators | Easy | [Code](./solutions/python-arithmetic-operators.py) | [View](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true) |
 | 4 | Python: Division | Easy | [Code](./solutions/python-division.py) | [View](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true) |
 | 5 | Loops | Easy | [Code](./solutions/python-loops.py) | [View](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true) |
+| 6 | Write a function | Easy | [Code](./solutions/write-a-function.py) | [View](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true) |
 ---
 
 ## 👤 Profile
