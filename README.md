@@ -14,6 +14,7 @@ Welcome to my HackerRank Python solution repository! Here I document my solution
 | 5 | Loops | Easy | [Code](./solutions/python-loops.py) | [View](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true) |
 | 6 | Write a function | Easy | [Code](./solutions/write-a-function.py) | [View](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true) |
 | 7 | Print Function | Easy | [Code](./solutions/python-print-function.py) | [View](https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true) |
+| 8 | List Comprehensions | Easy | [Code](./solutions/list-comprehensions.py) | [View](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true) |
 ---
 
 ## 👤 Profile
