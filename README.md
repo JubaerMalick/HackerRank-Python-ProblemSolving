@@ -16,6 +16,7 @@ Welcome to my HackerRank Python solution repository! Here I document my solution
 | 7 | Print Function | Easy | [Code](./solutions/python-print-function.py) | [View](https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true) |
 | 8 | List Comprehensions | Easy | [Code](./solutions/list-comprehensions.py) | [View](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true) |
 | 9 | Find the Runner-Up Score! | Easy | [Code](./solutions/find-the-runner-up-score.py) | [View](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true) |
+| 10 | Nested Lists | Easy | [Code](./solutions/nested-lists.py) | [View](https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true) |
 ---
 
 ## 👤 Profile
